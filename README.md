@@ -18,6 +18,12 @@
 - 维护个人博客，用来记录学习笔记、项目复盘和日常折腾
 - 喜欢把小想法做成可访问、可复用的小项目
 
+## About This Profile
+
+- `FanMiLi666.github.io` 是我的个人博客网站仓库，对应访问地址：<https://fanmili666.github.io/>
+- `FanMiLi666` 是当前 GitHub 主页介绍仓库，只负责展示这份 Profile README
+- 两个仓库用途不同：一个是博客网站，一个是 GitHub 个人主页名片
+
 ## Tech Stack
 
 <div align="center">
@@ -30,7 +36,7 @@
 
 | Project | Description |
 | --- | --- |
-| [FanMiLi666.github.io](https://github.com/FanMiLi666/FanMiLi666.github.io) | 个人博客，记录前端学习、项目实践和技术笔记 |
+| [FanMiLi666.github.io](https://github.com/FanMiLi666/FanMiLi666.github.io) | 个人博客网站仓库，用于托管 `fanmili666.github.io` |
 | [screen-awake](https://github.com/FanMiLi666/screen-awake) | macOS 菜单栏屏幕常亮工具 |
 | [codex-status](https://github.com/FanMiLi666/codex-status) | macOS Codex 状态栏工具 |
 | [desktop-dock](https://github.com/FanMiLi666/desktop-dock) | 轻量 macOS 桌面 Dock 工具 |
