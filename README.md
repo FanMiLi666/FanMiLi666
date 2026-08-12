@@ -6,6 +6,8 @@
 
 [个人博客](https://fanmili666.github.io/) · [GitHub 主页](https://github.com/FanMiLi666)
 
+![Profile Views](https://komarev.com/ghpvc/?username=FanMiLi666&style=flat-square&color=2f81f7)
+
 </div>
 
 ---
@@ -18,11 +20,11 @@
 
 ## Tech Stack
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=222)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222?style=flat-square&logo=github&logoColor=white)
+<div align="center">
+
+![Skills](https://skillicons.dev/icons?i=html,css,js,git,github,vscode)
+
+</div>
 
 ## Featured Projects
 
@@ -32,6 +34,14 @@
 | [dinner](https://github.com/FanMiLi666/dinner) | 基于 JavaScript 的外卖点餐练习项目 |
 | [VIPwebsite](https://github.com/FanMiLi666/VIPwebsite) | HTML 页面练习项目 |
 | [picgo](https://github.com/FanMiLi666/picgo) | 博客与 Markdown 图片资源仓库 |
+
+## Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FanMiLi666/FanMiLi666/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FanMiLi666/FanMiLi666/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/FanMiLi666/FanMiLi666/output/github-contribution-grid-snake.svg">
+</picture>
 
 ## GitHub Stats
 
