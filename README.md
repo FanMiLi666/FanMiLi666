@@ -31,9 +31,8 @@
 | Project | Description |
 | --- | --- |
 | [FanMiLi666.github.io](https://github.com/FanMiLi666/FanMiLi666.github.io) | 个人博客，记录前端学习、项目实践和技术笔记 |
-| [dinner](https://github.com/FanMiLi666/dinner) | 基于 JavaScript 的外卖点餐练习项目 |
-| [VIPwebsite](https://github.com/FanMiLi666/VIPwebsite) | HTML 页面练习项目 |
 | [picgo](https://github.com/FanMiLi666/picgo) | 博客与 Markdown 图片资源仓库 |
+| [FanMiLi666](https://github.com/FanMiLi666/FanMiLi666) | GitHub Profile README 配置仓库 |
 
 ## Contribution Snake
 
