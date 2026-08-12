@@ -31,7 +31,9 @@
 | Project | Description |
 | --- | --- |
 | [FanMiLi666.github.io](https://github.com/FanMiLi666/FanMiLi666.github.io) | 个人博客，记录前端学习、项目实践和技术笔记 |
-| [FanMiLi666](https://github.com/FanMiLi666/FanMiLi666) | GitHub Profile README 配置仓库 |
+| [screen-awake](https://github.com/FanMiLi666/screen-awake) | macOS 菜单栏屏幕常亮工具 |
+| [codex-status](https://github.com/FanMiLi666/codex-status) | macOS Codex 状态栏工具 |
+| [desktop-dock](https://github.com/FanMiLi666/desktop-dock) | 轻量 macOS 桌面 Dock 工具 |
 
 ## Contribution Snake
 
