@@ -31,7 +31,6 @@
 | Project | Description |
 | --- | --- |
 | [FanMiLi666.github.io](https://github.com/FanMiLi666/FanMiLi666.github.io) | 个人博客，记录前端学习、项目实践和技术笔记 |
-| [picgo](https://github.com/FanMiLi666/picgo) | 博客与 Markdown 图片资源仓库 |
 | [FanMiLi666](https://github.com/FanMiLi666/FanMiLi666) | GitHub Profile README 配置仓库 |
 
 ## Contribution Snake
