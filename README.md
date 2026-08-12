@@ -47,8 +47,11 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FanMiLi666&show_icons=true&theme=github_dark&hide_border=true)
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FanMiLi666&theme=github_dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FanMiLi666&layout=compact&theme=github_dark&hide_border=true)
+![Repos Per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FanMiLi666&theme=github_dark)
+![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=FanMiLi666&theme=github_dark)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=FanMiLi666&theme=github-dark-blue&hide_border=true)
 
 </div>
